@@ -1,6 +1,6 @@
-# vue-starter
+# Vue2 cli multiple pages starter 
 
-> A Vue.js project
+> A Vue.js 2.0 multiple pages project
 
 ## Build Setup
 
