@@ -17,7 +17,6 @@
     height: 40px;
     border-bottom: solid 1px #ccc;
     text-align: center;
-    line-height: 40px;
   }
 </style>
 
