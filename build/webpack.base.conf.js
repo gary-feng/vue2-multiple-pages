@@ -4,7 +4,7 @@ var utils = require('./utils')
 var config = require('../config')
 var vueLoaderConfig = require('./vue-loader.conf')
 // 入口js文件
-var entries = utils.getEntries('./src/modules/!(router)/*.js')
+var entries = utils.getEntries('./src/modules/*/*.js')
 
 function resolve (dir) {
   return path.join(__dirname, '..', dir)
